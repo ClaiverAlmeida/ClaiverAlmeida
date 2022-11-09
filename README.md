@@ -7,7 +7,7 @@ I am focused on developing with Javascript, TypeScript, Angular, NodeJS and curr
 I consider myself agile and consistent in learning a new technology and highly adaptable to changes, ready to overcome any challenge!
 
 
-Quem Sou eu? https://claiveralmeida.github.io/Quem-Sou-Eu/inicio
+Quem Sou eu? https://claiveralmeida.github.io/Quem-Sou-Eu/
 
 <!---
 ClaiverAlmeida/ClaiverAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
